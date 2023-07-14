@@ -462,7 +462,7 @@ var APP_DATA = {
           "yaw": 3.001512157131298,
           "pitch": -0.1721336822305073,
           "rotation": 0,
-          "target": "9-beleuchtungslager"
+          "target": "26-hinterbhne"
         }
       ],
       "infoHotspots": []
