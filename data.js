@@ -86,7 +86,7 @@ var APP_DATA = {
           "yaw": 1.0212905939156371,
           "pitch": 0.7603161109952836,
           "title": "Hinweis",
-          "text": "Die Bühne unseres Hauses aufgrund des Repertoire-Betriebs jeden Tag anders aus. Da die Bilder an unterschiedlichen Tagen aufgenommen wurden, sieht man je nach Bild unterschiedliche Bühnenbilder."
+          "text": "Die Bühne unseres Hauses sieht aufgrund des Repertoire-Betriebs jeden Tag anders aus. Da die Bilder an unterschiedlichen Tagen aufgenommen wurden, sieht man je nach Bild unterschiedliche Bühnenbilder."
         }
       ]
     },
@@ -137,7 +137,7 @@ var APP_DATA = {
           "yaw": 2.649560902175324,
           "pitch": 0.670256273186423,
           "title": "Hinweis",
-          "text": "Die Bühne unseres Hauses aufgrund des Repertoire-Betriebs jeden Tag anders aus. Da die Bilder an unterschiedlichen Tagen aufgenommen wurden, sieht man je nach Bild unterschiedliche Bühnenbilder."
+          "text": "Die Bühne unseres Hauses sieht aufgrund des Repertoire-Betriebs jeden Tag anders aus. Da die Bilder an unterschiedlichen Tagen aufgenommen wurden, sieht man je nach Bild unterschiedliche Bühnenbilder."
         }
       ]
     },
