@@ -36,7 +36,14 @@ var APP_DATA = {
           "target": "21-foyer"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.428257549606176,
+          "pitch": 0.04714110982530073,
+          "title": "Herzlich Willkommen",
+          "text": "Herzlich Willkommen am Theater Trier. In diesem Rundgang können Sie das Theater auf eigene Faust erkunden und ein bisschen hinter die Kulissen schauen. Die Navigation funktioniert entweder über das Menü links oder die Pfeile.<div>Viel Vergnügen!</div>"
+        }
+      ]
     },
     {
       "id": "1-arbeitsgalerie",
