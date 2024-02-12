@@ -684,7 +684,7 @@ var APP_DATA = {
           "yaw": -3.0656992716789553,
           "pitch": 0.025254731701126687,
           "rotation": 0,
-          "target": "5-beleuchterbhne"
+          "target": "10-bhne"
         },
         {
           "yaw": 2.6689841574162685,
